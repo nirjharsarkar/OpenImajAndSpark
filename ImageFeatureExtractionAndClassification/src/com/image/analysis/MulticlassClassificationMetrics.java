@@ -16,9 +16,12 @@ import org.apache.spark.SparkConf;
 import org.apache.spark.SparkContext;
 
 /**
- * Limited Memory Broyden–Fletcher–Goldfarb–Shanno algorithm
  * 
- * @author sarkan
+ * @modifier
+ * 	nirjhar.sarkar@gmail.com
+ * 	https://in.linkedin.com/in/nirjharsarkar
+ * 	https://twitter.com/nirjharsarkar
+ * 
  *
  */
 public class MulticlassClassificationMetrics {

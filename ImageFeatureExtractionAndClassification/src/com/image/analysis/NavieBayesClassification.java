@@ -16,6 +16,15 @@ import org.apache.spark.mllib.regression.LabeledPoint;
 import scala.Tuple2;
 
 
+/**
+ * 
+ * @modifier
+ * 	nirjhar.sarkar@gmail.com
+ * 	https://in.linkedin.com/in/nirjharsarkar
+ * 	https://twitter.com/nirjharsarkar
+ * 
+ *
+ */
 
 public class NavieBayesClassification {
 	private static final String DATA = "C:/Nirjhar Data/Developer Zone/imageanalysis/BagOfVisualWords/datas.txt";

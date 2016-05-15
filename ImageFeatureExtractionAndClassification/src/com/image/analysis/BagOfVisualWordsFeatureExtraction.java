@@ -26,15 +26,19 @@ import org.openimaj.ml.clustering.kmeans.ByteKMeans;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+
+/**
+ * 
+ * @modifier
+ * 	nirjhar.sarkar@gmail.com
+ * 	https://in.linkedin.com/in/nirjharsarkar
+ * 	https://twitter.com/nirjharsarkar
+ * 
+ *
+ */
 public class BagOfVisualWordsFeatureExtraction {
 
-	/**
-	 * 
-	 * @param args
-	 *            ignored
-	 * @throws IOException
-	 *             if the image can't be read
-	 */
+
 
 	private static Logger slf4jLogger = LoggerFactory.getLogger(BagOfVisualWordsFeatureExtraction.class);
 	private static List<File> fileNames = new ArrayList<File>();
